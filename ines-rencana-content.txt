@@ -6,6 +6,9 @@ RENCANA KONTEN INES
   ^ Segiempat
  *Mix&Match
 -Outfit
+  ^ Kuliah
+  ^ Kerja
+  ^ HangOut
 -Modelling
 -Travelling
 -VLOG
